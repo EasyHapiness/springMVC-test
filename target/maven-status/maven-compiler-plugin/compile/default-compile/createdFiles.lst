@@ -1,0 +1,10 @@
+yin\yasong\service\TestService.class
+yin\yasong\servlet\YSDIspacherServlet.class
+yin\yasong\annotation\GPRequestMapping.class
+yin\yasong\Test.class
+yin\yasong\annotation\GPRequestParam.class
+yin\yasong\controller\Test1Controller.class
+yin\yasong\annotation\GPController.class
+yin\yasong\service\impl\TestServiceImpl.class
+yin\yasong\annotation\GPAutowired.class
+yin\yasong\annotation\GPService.class
